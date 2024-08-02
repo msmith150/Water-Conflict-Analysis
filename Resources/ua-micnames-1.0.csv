@@ -1,0 +1,511 @@
+micnum,micname,version
+2,Alaska Boundary Dispute (1902),micnames-1.0
+3,Serbian and Austro-Hungarian Fighting over Albania (1913),micnames-1.0
+4,British Attempts to Pass the Albanian Corfu Channel (1946),micnames-1.0
+7,British Moves to Keep a Presence in the Suez Canal (1951-1952),micnames-1.0
+8,The Anglo-Persian War of 1856–1857,micnames-1.0
+9,Anglo-Portuguese Crisis (1889-90),micnames-1.0
+11,Anschluss (1938),micnames-1.0
+12,Sudetenland Crisis (1938),micnames-1.0
+13,Shimonoseki Campaign (1863),micnames-1.0
+14,British Threats to the Ottomans over Armenia (1895),micnames-1.0
+15,The Aroostook War (1839),micnames-1.0
+19,The Austro-Sardinian War of 1848–1849,micnames-1.0
+20,Azerbaijan Crisis (1945-1946),micnames-1.0
+22,Soviet Takeover of Latvia (1940),micnames-1.0
+23,Soviet Blockade of Estonia (1939),micnames-1.0
+25,Dutch Ten Days Campaign in Belgium (1832),micnames-1.0
+26,Berlin Blockade (1949),micnames-1.0
+27,Berlin Crisis (1961),micnames-1.0
+28,Bizerte Disputes (1961),micnames-1.0
+30,Bosnian Crisis (1908-09),micnames-1.0
+31,The Boxer Rebellion of 1900,micnames-1.0
+38,The {\it Caroline} Affair (1837),micnames-1.0
+40,Jinan Incident and Aftermath (1928-1929),micnames-1.0
+41,The Manchurian War of 1929,micnames-1.0
+43,German Occupation of Kiaochow (1897),micnames-1.0
+50,The Off-shore Islands War of 1954–1955,micnames-1.0
+51,The Korean War of 1950–1953,micnames-1.0
+55,Corfu Incident (1923),micnames-1.0
+56,Major Power Intervention in Crete (1897),micnames-1.0
+57,The Crimean War of 1853–1856,micnames-1.0
+61,Cuban Missile Crisis (1962),micnames-1.0
+67,Austrian Chancellor Dollfuss Assassination (1934),micnames-1.0
+69,Prelude to the American Occupation of the Dominican Republic (1914-1916),micnames-1.0
+71,Don Pacifico Affair (1850),micnames-1.0
+77,Fashoda Crisis (1898-1899),micnames-1.0
+78,Occupation of Ferrara (1847),micnames-1.0
+86,Franco-Spanish Expansion in Morocco (1907-1908),micnames-1.0
+88,The Franco-Prussian War of 1870–1871,micnames-1.0
+89,The Franco-Spanish War of 1823,micnames-1.0
+91,France and Russia Threaten War Over Egyptian Agreement (1887),micnames-1.0
+92,French Intervention in Gabon (1964),micnames-1.0
+95,German Threats for Haitian Banking Interests (1909),micnames-1.0
+96,Great Power Blockade of Greece (1886),micnames-1.0
+100,Start of the American Occupation of Haiti (1914-1915),micnames-1.0
+108,Italian Invasion of Albania (1939),micnames-1.0
+111,The Conquest of Ethiopia of 1935–1936,micnames-1.0
+112,The Italian-Roman War of 1860,micnames-1.0
+113,The Neapolitan War of 1860–1861,micnames-1.0
+114,The Italian-Turkish War of 1911–1912,micnames-1.0
+115,The War of Italian Unification of 1859,micnames-1.0
+119,Britain and the Panjdeh Incident (1885),micnames-1.0
+122,Kuwaiti Independence (1961),micnames-1.0
+123,Anglo-French Blockade of Argentine Confederation (1845-1846),micnames-1.0
+127,Allied Threats Against the Ruhr for Reparations (1921),micnames-1.0
+128,Great Power Pressure on the Ottomans over Macedonia (1905),micnames-1.0
+129,The Second Sino-Japanese War of 1931–1933,micnames-1.0
+131,Russian Attempts to Control Masampo (1899-1900),micnames-1.0
+133,Memel Dispute (Klaipėda Revolt),micnames-1.0
+135,The Franco-Mexican War of 1862–1867,micnames-1.0
+136,Fighting with the United States following the Coup in Mexico (1913-1914),micnames-1.0
+139,Japan Takes the Chahar Province for Manchukuo (1934-1935),micnames-1.0
+141,Great Power Pressure on the Ottomans and the Ceding of Ulcinj (1880),micnames-1.0
+144,British-American Tensions in the Mosquito Coast (1854),micnames-1.0
+145,Rioting in the Hankow Concession (1927),micnames-1.0
+146,Battle of Navarino Bay (1827),micnames-1.0
+147,Austrian Intervention in Two Sicilies Following Cabonari Coup (1821),micnames-1.0
+149,Neuchatel Crisis (1856-1857),micnames-1.0
+152,Franco-British Tensions in Africa (1896-1898),micnames-1.0
+154,Conflict Leading to the Punctation of Olmutz (1850),micnames-1.0
+156,Ottoman Occupation of Taba (1906),micnames-1.0
+157,The Third Sino-Japanese War of 1937–1941,micnames-1.0
+158,Panama Occupies the Coto Region (1921),micnames-1.0
+159,American Pressure on Colombia over Panama Canal (1903),micnames-1.0
+160,Pastry War (1838-1839),micnames-1.0
+164,Perdicaris Affair (1904),micnames-1.0
+165,Russian Moves on Persia (1911-1912),micnames-1.0
+167,Austro-Hungary Puts Down Piedmont Revolt (1821),micnames-1.0
+169,The Soviet Invasion of Poland (1939),micnames-1.0
+173,Taiwan Straits War of 1958,micnames-1.0
+174,Remilitarization of the Rhineland (1946),micnames-1.0
+175,The War of the Roman Republic of 1849,micnames-1.0
+177,French and Belgian Occupation of the Ruhr (1923),micnames-1.0
+179,The Russo-Finnish War of 1939–1940,micnames-1.0
+180,The Russo-Japanese War of 1904 –1905,micnames-1.0
+182,Battle of Khalkhyn Temple and Other Small Clashes (1935-1936),micnames-1.0
+183,The Nomonhan War of 1939,micnames-1.0
+184,The Changkufeng War of 1938,micnames-1.0
+185,Polish October (1956),micnames-1.0
+187,The Second Russo-Turkish War of 1877–1878,micnames-1.0
+189,The First Russo-Turkish War of 1828–1829,micnames-1.0
+191,Samoan Crisis (1888-1889),micnames-1.0
+194,The Second Schleswig-Holstein War of 1864,micnames-1.0
+196,Franco-Siamese War (1893),micnames-1.0
+197,Allied intervention in the Russian Civil War (1917),micnames-1.0
+199,The War in Assam of 1962,micnames-1.0
+200,The Sinai War of 1956,micnames-1.0
+202,The Sino-French War of 1884–1885,micnames-1.0
+208,Allied-Soviet Air Incidents (1953),micnames-1.0
+210,Interventions in the Spanish Civil War (1936-1939),micnames-1.0
+211,First Occupation of the Ruhr (1920),micnames-1.0
+220,Reactions to the Tianjin Massacre (1870),micnames-1.0
+225,Trent Affait (1861),micnames-1.0
+227,Tsushima Incident (1861),micnames-1.0
+228,Invasion of Tunis (1881),micnames-1.0
+230,Italian Occupation of Ottoman Lands (1919),micnames-1.0
+231,Austrian Moves during the Italian Unification Wars (1849),micnames-1.0
+235,British attack on French Fleet (1940),micnames-1.0
+236,Revolutions of 1848 Refugee Crisis (1849),micnames-1.0
+237,Britain Seizes German Mail Ships during Boer War (1899-1900),micnames-1.0
+241,Soviet Seizures of British Ships (1923),micnames-1.0
+246,Bay of Pigs (1960-1961),micnames-1.0
+247,Dominican Debt Crisis (1905),micnames-1.0
+252,Turkish Straits Crisis (1946),micnames-1.0
+253,U2 Flights [Gary Powers] (1960),micnames-1.0
+254,Venezuelan Crisis (1902-03),micnames-1.0
+256,"Spanish Seizure of the American Vessel, Virginius (1873)",micnames-1.0
+257,World War I of 1914–1918,micnames-1.0
+258,World War II of 1939–1945,micnames-1.0
+259,Yemen-Adenese Border Conflict (1956-1958),micnames-1.0
+261,The Seven Weeks War of 1866,micnames-1.0
+301,French Spoliation Claims (1835-1836),micnames-1.0
+307,British War Scare during Russo-Ottoman War (1877-1878),micnames-1.0
+309,The Occupation of Weihaiwei (China) (1898),micnames-1.0
+312,Ottoman Seizure of an Italian Sambuk (1910),micnames-1.0
+315,Agadir (or Second Moroccan) Crisis (1911),micnames-1.0
+316,"Italian Seizure of the French Ship, Carthage (1912)",micnames-1.0
+317,Russian Warnings during First Balkan War (1912-1913),micnames-1.0
+320,Italian Entry into World War I (1914-1915),micnames-1.0
+321,Pancho Villa Expedition (1916-1917),micnames-1.0
+323,Noemvriana (November Events) or Greek Entry into WWI (1916-1917),micnames-1.0
+324,Greek Entry into World War I (1915),micnames-1.0
+327,Great Power Occupation of Constantinople (1920),micnames-1.0
+328,Allied Pressure on the Ottomans (1922-1923),micnames-1.0
+337,Tientsin and After (1939-1940),micnames-1.0
+339,US-Japan Prior to World War II (1941),micnames-1.0
+346,Prague Spring (1968),micnames-1.0
+347,USS Pueblo Incident (1968),micnames-1.0
+349,Damansky Island Crisis (1968-1969),micnames-1.0
+350,Peruvian-US Fisheries Dispute (1969),micnames-1.0
+353,Soviets Threaten to Send Troops to the Middle East (1973),micnames-1.0
+354,Cod War II (1972-1973),micnames-1.0
+355,Battle for Paracel Islands (1974),micnames-1.0
+362,Axe Murder Incident (1976),micnames-1.0
+367,The French Morea Expedition Against the Ottomans (1828),micnames-1.0
+373,Negotiating the Oregon Treaty (1846),micnames-1.0
+374,First Italian War of Independence (1848),micnames-1.0
+375,The First Schleswig-Holstein War of 1848–1849,micnames-1.0
+379,French Pressure on China for Territorial Concessions (1898),micnames-1.0
+391,Great Power Intervention in Crete (1898),micnames-1.0
+394,Italian Occupation of Albania (1914-1915),micnames-1.0
+395,Portugal Seizes German Ships at Britain's Request (1916),micnames-1.0
+397,Bulgarian entry into World War I (1915),micnames-1.0
+398,German Uboat Attacks on American Shipping (1915-1917),micnames-1.0
+409,Soviet-Japanese Fighting over the Amur River (1937-1938),micnames-1.0
+414,German UBoats Targeting United States Vessels (1941),micnames-1.0
+418,Italian Moves on Albania and Greece in World War II (1940),micnames-1.0
+420,Anglo-Iraqi War (1941),micnames-1.0
+502,Rendsburg Incident (1864),micnames-1.0
+503,Soviet Pressure on Latvia (1939),micnames-1.0
+504,Soviet Takeover of Lithuania (1940),micnames-1.0
+505,Soviet Takeover of Estonia (1940),micnames-1.0
+518,Bulgaria Entering World War II (1941),micnames-1.0
+523,Anglo-Soviet invasion of Persia (1941),micnames-1.0
+606,The Soviet Invasion of Hungary of 1956,micnames-1.0
+607,Targeting the Baghdad Pact after the Suze Crisis (1957-1958),micnames-1.0
+608,Soviet Moves on West Berlin (1958-1959),micnames-1.0
+611,The Vietnam War Phase 2 of 1965–1975,micnames-1.0
+613,The Franco-Thai War of 1940–1941,micnames-1.0
+616,Japanese Moves on Manchuria (1935),micnames-1.0
+619,Cod War III (1975-1976),micnames-1.0
+620,Mussolini Threatens Britain and France over Spain (1939),micnames-1.0
+632,Cuba Declared War on Germany (1917),micnames-1.0
+633,Formosa and the Chinese Civil War (1949-1950),micnames-1.0
+1006,Struggle over East Jerusalem and the West Bank (1950-1956),micnames-1.0
+1021,Fighting over West New Guinea (1960-1962),micnames-1.0
+1027,The Chaco War of 1932–1935,micnames-1.0
+1035,The Six Day War of 1967,micnames-1.0
+1039,Syrian-Jordan Fighting with Great Power Involvement (1970),micnames-1.0
+1046,The Yom Kippur War of 1973,micnames-1.0
+1063,Dutch–Venezuelan Crisis (1908),micnames-1.0
+1067,Aftermath of the Six Days War (1969-1970),micnames-1.0
+1070,Indonesia–Malaysia Confrontation (1963),micnames-1.0
+1074,Annexation of Goa (1961),micnames-1.0
+1083,Border Fighting Between Morocco and Newly-Independent Algeria (1962),micnames-1.0
+1084,Sand War (1963),micnames-1.0
+1086,The Second Spanish-Moroccan War of 1909–1910,micnames-1.0
+1099,The Snipe Incident and Chilean-Argentine Border Conflict (1958-1960),micnames-1.0
+1102,Alto Palena (1963),micnames-1.0
+1106,Iranian Involvement in South Yemen-Oman Fighting (1975-1976),micnames-1.0
+1107,Unification of Yemen (1971-1972),micnames-1.0
+1108,North Yemen Civil War (1962-1963),micnames-1.0
+1109,Egyptian Conflict with the Saudis over YAR (1966-1967),micnames-1.0
+1117,The Ifni War of 1957–1958,micnames-1.0
+1119,Spanish-Moroccan Fisheries Conflict (1973-1974),micnames-1.0
+1120,Hispanola Border Fighting (1901),micnames-1.0
+1129,The Saudi-Yemeni War of 1934,micnames-1.0
+1133,Bolshevik Attack on White Russian Fleet in Persia (1920-1921),micnames-1.0
+1135,Fight over Persian Gulf Islands (1971-1972),micnames-1.0
+1139,Leticia War (1932-1933),micnames-1.0
+1141,"Leticia, Continued (1934)",micnames-1.0
+1142,Harbin Soviet (1917),micnames-1.0
+1153,Peru-Ecuador Border Clashes (1938),micnames-1.0
+1154,Zarumilla War (1940-1941),micnames-1.0
+1161,Colombian Occupation of the Yapura River Region (1911),micnames-1.0
+1166,Ankoko Affair (1966-1967),micnames-1.0
+1171,Salvadoran-Guatemalan Border Clashes (1935),micnames-1.0
+1174,Colombian-Venezuelan Tensions and the Battle of Carazua (1900-1901),micnames-1.0
+1178,Brazilian Blockade of Bolivia (1902-1903),micnames-1.0
+1195,Nicaraguan Occupation of the North Bank of the Coco River (1918),micnames-1.0
+1196,Leasing the Corn Islands (1913-1914),micnames-1.0
+1202,The Fourth Central American War of 1907,micnames-1.0
+1205,The Third Central American War of 1906,micnames-1.0
+1206,The Football War of 1969,micnames-1.0
+1213,Cambodian Entry into the Vietnam War (1964),micnames-1.0
+1219,The Russo-Polish War of 1919–1920,micnames-1.0
+1225,Preah Vihear Temple Conflict (1953-1954),micnames-1.0
+1229,Thai-Cambodian Conflict over the Khao Phra Viharn/Preah Vihear Temple (1964-1966),micnames-1.0
+1232,Thai-Cambodian-Vietnamese Border Conflict and the Khmer Rouge (1976-1987),micnames-1.0
+1233,Hungarian Occupation of Burgenland (1921),micnames-1.0
+1235,Koplik War (1921),micnames-1.0
+1238,The First Kashmir War of 1947–1949,micnames-1.0
+1243,Polish-Lithuanian Border Clash (1938),micnames-1.0
+1244,Polish Occupation of Bohumin (1938),micnames-1.0
+1250,The First Balkan War of 1912–1913,micnames-1.0
+1251,The Second Balkan War of 1913,micnames-1.0
+1262,Allied Occupation of Albania (1918),micnames-1.0
+1263,Romania Occupies Part of Serbia (1918),micnames-1.0
+1265,The Hungarian Adversaries War of 1919,micnames-1.0
+1268,Czech-Poland Seven Day War (1919),micnames-1.0
+1270,The Second Greco-Turkish War of 1919–1922,micnames-1.0
+1272,The Lithuanian-Polish War of 1920,micnames-1.0
+1273,Upper Silesia Plebiscite (1921),micnames-1.0
+1274,Ottoman Empire and Bulgarian Independence (1908-1909),micnames-1.0
+1284,Greek Conflict with Albania over Support for Rebels (1948),micnames-1.0
+1285,Operation Pyrsos [Fighting in Greek Grammos Mountains] (1949),micnames-1.0
+1286,Yugoslav-Soviet Split (1949-1951),micnames-1.0
+1292,Greek-Turk Row over Continental Shelf (1974),micnames-1.0
+1293,The Turco-Cypriot War of 1974,micnames-1.0
+1306,Afghan-Pakistani Border Skirmishes (1950),micnames-1.0
+1312,The Second Kashmir War of 1965,micnames-1.0
+1353,The Second Laotian War Phase 2 of 1968–1973,micnames-1.0
+1360,The War of the Communist Coalition of 1970–1971,micnames-1.0
+1363,International Fighting during the Laotian Civil War (1960-1961),micnames-1.0
+1374,Kuomintang in Burma (1950-1953),micnames-1.0
+1379,Low-Intensity Conflict in Korea (1962-1971),micnames-1.0
+1380,Post-Ugandan Coup Conflict with Tanzania (1971),micnames-1.0
+1381,Rebel Invasion of Uganda (1972),micnames-1.0
+1435,The Vietnamese-Cambodian Border War of 1977–1979,micnames-1.0
+1441,The War over Angola of 1975–1976,micnames-1.0
+1447,The War for Bangladesh of 1971,micnames-1.0
+1450,Indonesian occupation of East Timor (1975-1976),micnames-1.0
+1477,Aland Islands Crisis (1918),micnames-1.0
+1480,The War of Attrition of 1969–1970,micnames-1.0
+1482,The Naval War of 1865–1866,micnames-1.0
+1486,Sino-Japanese Tensions Following the Gapsin Coup (1884),micnames-1.0
+1488,Rumors of a Coup in Korea (1885),micnames-1.0
+1489,Sino-Japanese Fight Over Formosa (1874),micnames-1.0
+1490,The First Sino-Japanese War of 1894–1895,micnames-1.0
+1497,"Venezuelan Seizure of the Dutch Ship, Honfleur (1870)",micnames-1.0
+1498,Reaction to Spain's Proposed Flores Expedition (1846-1847),micnames-1.0
+1500,Chilean Occupation of Mejillones (1857-1858),micnames-1.0
+1506,Reactions to the Flores Expedition (1852-1853),micnames-1.0
+1507,Chilean Occupation of Magellan Straits (19431855),micnames-1.0
+1508,Chilean-Peruvian Shows of Force Over Patagonia (1873),micnames-1.0
+1510,Chilean Seizure of Argentine Ship (1878),micnames-1.0
+1511,Argentine Occupation of Patagonia (1879),micnames-1.0
+1513,Puna de Atacama War Scare (1898),micnames-1.0
+1518,The War of the Pacific of 1879–1883,micnames-1.0
+1519,The Ecuadorian-Colombian War of 1863,micnames-1.0
+1520,Colombia-Ecuador Border Clash Over Rebels (1862),micnames-1.0
+1522,United States Objects to Colombian Tonnage Tax (1856),micnames-1.0
+1528,The La Plata War of 1851–1852,micnames-1.0
+1529,Mele Affair (1891),micnames-1.0
+1530,"Haitian Seizure of the American Vessel, Haytian Republic (1888)",micnames-1.0
+1533,The First Central American War of 1876,micnames-1.0
+1534,First Totoposte War (1890),micnames-1.0
+1535,The Second Central American War of 1885,micnames-1.0
+1541,Mexican-American Border Conflict over Changing Rio Grande (1893),micnames-1.0
+1544,Mexican-American Border Tension (1876-1878),micnames-1.0
+1545,Mexican-American Border Tensions (1875),micnames-1.0
+1547,American Raids on Mexico to Capture Kickapoo Tribe (1873),micnames-1.0
+1552,The Mexican-American War of 1846–1848,micnames-1.0
+1553,Mexican Moves on Texas (1838),micnames-1.0
+1557,The Spanish-American War of 1898,micnames-1.0
+1564,Fallout from the Ostend Manifesto (1855),micnames-1.0
+1565,"Spanish Seizure of the American Ship, Black Warrior (1854)",micnames-1.0
+1567,Andrew Jackson Raids During Seminole War (1818),micnames-1.0
+1569,The Greco-Turkish War of 1897,micnames-1.0
+1573,Greek Moves on the Ottomans at the End of Russo-Turkish War (1878),micnames-1.0
+1575,Greek-Ottoman Moves on Crete (1868),micnames-1.0
+1579,Ottoman Fighting Following Greek Independence (1829),micnames-1.0
+1580,The First Spanish-Moroccan War of 1859–1860,micnames-1.0
+1581,First Melillan Campaign (1893-1894),micnames-1.0
+1590,The Lopez War of 1864–1870,micnames-1.0
+1597,Peruvian Occupation of Tarapaca (1899-1900),micnames-1.0
+1609,Beagle Channel Conflict (1967),micnames-1.0
+1625,British Seizure of Brazilian Slave Ships (1845),micnames-1.0
+1628,Anglo-French Blockade of Venezuela (1858),micnames-1.0
+1633,Chile Seizes Argentine Guano Ship (1876),micnames-1.0
+1635,Italy's Crispi Pressuring Austria-Hungary (1877),micnames-1.0
+1639,British Guiana-Venezuelan Border Dispute (1886-1887),micnames-1.0
+1645,British Occupation of Trinidade Island (1895),micnames-1.0
+1647,Amapa Question (1895-1896),micnames-1.0
+1654,British Seizure of Dutch Ships (1914),micnames-1.0
+1656,German Uboat Attacks on Norwegian Shipping (1915-1918),micnames-1.0
+1660,British Seizure of Swedish Ships (1917),micnames-1.0
+1661,German Attacks on Dutch Shipping (1914-1918),micnames-1.0
+1668,Soviet Blockade of the Amur River (1922-1923),micnames-1.0
+1669,Italian Occupation and Fortification in Wel Wel (1923-1924),micnames-1.0
+1671,Franco-Italian Tensions Following Failed Assassination Attempt (1926),micnames-1.0
+1674,"Chinese Seizure of the Soviet Ship, Pamiat Lenina (1927)",micnames-1.0
+1683,Britain Pressed Claims on Haiti (1883),micnames-1.0
+1698,"Conflicting Argentine, Chilean, and British Interests in the Antarctic (1947-1948)",micnames-1.0
+1703,Soviet-Tito Rift (1952),micnames-1.0
+1711,France Fighting Algerian Rebels in Tunisia (1960),micnames-1.0
+1714,"Failed American Deterrence before the Spanish Bombardment of Valparaiso, Chile (1866)",micnames-1.0
+1723,Russo-Finnish ``Kinship Wars'' (1919-1920),micnames-1.0
+1732,British Seizure of Swedish Ships (1914-1915),micnames-1.0
+1736,Italian Occupation of Rhodes (1924),micnames-1.0
+1743,"Portuguese Seizure of the French vessel, Charles et George (1857-1858)",micnames-1.0
+1762,British Blockade of Brazil---the Christie Question (1862),micnames-1.0
+1773,Portuguese-German Fighting in Africa (1914-1915),micnames-1.0
+1774,German Attacks on Swedish Shipping (1915-1918),micnames-1.0
+1775,American Threat to Intervene in Mexican Civil War (1915),micnames-1.0
+1777,Shandong and Kiaochow Bay (1918-1919),micnames-1.0
+1778,Vlora War (1920),micnames-1.0
+1780,Italian Takeover of Fiume (1923),micnames-1.0
+1781,Fighting Over the River Island of Urta Tagail (1925-1926),micnames-1.0
+1783,Nazi Pressure on Switzerland (1940),micnames-1.0
+1785,Japanese Invasion of Thailand (1941),micnames-1.0
+1789,German Attacks on Colombian Shipping (1942-1944),micnames-1.0
+1792,French Fighting Siamese Forces for Former Colonial Possessions (1946),micnames-1.0
+1793,The Arab-Israeli War of 1948–1949,micnames-1.0
+1800,American Reactions to Second French Expedition in Mexico (1865-1866),micnames-1.0
+2000,West New Guinea Dispute (1953),micnames-1.0
+2001,Burmese Bombing of Kuomintang (1953),micnames-1.0
+2013,Brazilian Occupation of Pirara (1838),micnames-1.0
+2052,Nationalist versus Communist Chinese Fighting (1951-1952),micnames-1.0
+2054,Afghan-Pakistani Border Fighting During the Soviet occupation of Afghanistan (1983-1987),micnames-1.0
+2069,The Second Ogaden War Phase 2 of 1977–1978,micnames-1.0
+2071,More Conflict in the Ogaden (1980-1981),micnames-1.0
+2072,Ethiopian-Somali Border War (1982),micnames-1.0
+2074,Ethiopian Raids Against Rebels over the Ogaden (1984-1985),micnames-1.0
+2079,The Snipe Incident and Chilean-Argentine Border Conflict (1958-1960),micnames-1.0
+2081,Beagle Islands Conflict (1978),micnames-1.0
+2086,Beagle Channel (1983),micnames-1.0
+2087,Beagle Channel (1984),micnames-1.0
+2112,Iran-Iraq Conflict over the Shatt-al-Arab (1973-1975),micnames-1.0
+2115,The Iran-Iraq War of 1980–1988,micnames-1.0
+2116,Commodore Jones Mistakenly Captures Monterey (1842),micnames-1.0
+2119,Paquisha Incident (1981),micnames-1.0
+2133,Bolivian-Paraguayan Border Tensions (1930),micnames-1.0
+2141,The Ugandan-Tanzanian War of 1978–1979,micnames-1.0
+2150,Shaba I [Katangan Rebellion] (1977),micnames-1.0
+2184,Mexican-American Border Tensions (1918),micnames-1.0
+2185,American Intervention in the Battle of Juarez (1919-1920),micnames-1.0
+2186,Border Fighting on the Korean Peninsula (1949),micnames-1.0
+2192,Low-Intensity Conflict on the Korean Peninsula (1977-1978),micnames-1.0
+2200,Japanese Occupation of Ryukyu Islands (1875),micnames-1.0
+2201,Japanese Annexation of Ryukyu Islands (1979),micnames-1.0
+2219,Berlin Crisis (1961-1962),micnames-1.0
+2231,Able Archer (1983),micnames-1.0
+2245,Somali and Somali National Movement Attack on Ethiopia (1987),micnames-1.0
+2302,German Occupation of Czechoslovakia (1939),micnames-1.0
+2341,The Claims of Ernesto Cerruti (1898),micnames-1.0
+2357,Yemenite War of 1979,micnames-1.0
+2367,Great Power Intervention into Greece (1854),micnames-1.0
+2369,The Schnaebele Affair (1887),micnames-1.0
+2603,Lithuanian Independence (1920),micnames-1.0
+2604,The Latvian War of Liberation of 1918–1920,micnames-1.0
+2605,The Estonian War of Liberation of 1918–1920,micnames-1.0
+2645,German Uboat Attacks on Danish Shipping (1915-1918),micnames-1.0
+2649,China's Grab to Retake German Concessions at End of World War I (1917),micnames-1.0
+2744,Occupation of Ouidah (1961),micnames-1.0
+2749,Chinese-Vietnamese Conflict over the Spratlys (1988),micnames-1.0
+2776,Thai-Laotian Border War (1987-1988),micnames-1.0
+2812,Corvette Caldas Crisis (1987),micnames-1.0
+2875,British-Icelandic Fishing Rights Conflict (1960),micnames-1.0
+2973,Sweden Traps a Soviet Submarine (1982),micnames-1.0
+3007,The Sino-Vietnamese Punitive War of 1979,micnames-1.0
+3017,Tensions with Iran after Soviet Invasion of Afghanistan (1980),micnames-1.0
+3020,Iran Hostage Crisis (1979),micnames-1.0
+3058,Invasion of Grenada (1983),micnames-1.0
+3062,United States Intervention in Lebanon (1983),micnames-1.0
+3066,Chadian-Nigerian ``War'' Over Islands on Lake Chad (1983),micnames-1.0
+3101,Israeli attack on Iraqi nuclear plant (1981),micnames-1.0
+3102,Sino-Vietnamese Border Fighting (1981),micnames-1.0
+3131,Rhodesian Bush War (1979),micnames-1.0
+3134,The Franco-Turkish War of 1919–1921,micnames-1.0
+3139,French Intervention in Morocco (1911-1912),micnames-1.0
+3168,Shooting Over a Stray Sheep Herd (1965),micnames-1.0
+3181,Political Turmoil Over Austria's Economy (1922),micnames-1.0
+3184,Romania Fighting Comitadjis (Rebels) from Bulgaria (1926),micnames-1.0
+3185,Crisis Over Control of Mosul (1925-1926),micnames-1.0
+3189,Crisis Over Control of the Sanjak Alexandretta (1937-1938),micnames-1.0
+3190,Negotiating Over the Sanjak (1938),micnames-1.0
+3191,Afghan Mobilization over Fears of Soviet Invasion (1939),micnames-1.0
+3229,Israel and TransJordan Armistice (1949),micnames-1.0
+3239,Attack on Negro Fort (1816),micnames-1.0
+3245,Clashes During Sino-Russian Border Negotiations (1862-1863),micnames-1.0
+3247,Russian Occupation of Ili (1871-1872),micnames-1.0
+3250,The Sino-Russian War of 1900,micnames-1.0
+3263,Soviet-Chinese Tensions over Xinjiang (1942-1943),micnames-1.0
+3264,Ili Rebellion (1944),micnames-1.0
+3348,Albania during World War I,micnames-1.0
+3349,German Uboat Attacks on Spanish Shipping (1915-1918),micnames-1.0
+3352,Bulgarian Negotiations with the Ottomans (1915),micnames-1.0
+3364,Hungarian Annexation of Carpatho-Ukraine (1939),micnames-1.0
+3437,Figthing over the Golan Heights (1973-1974),micnames-1.0
+3444,The War over Lebanon of 1982,micnames-1.0
+3445,Syrian Armistice with Israel (1949),micnames-1.0
+3447,Fighting Over the Golan Heights (1968-1971),micnames-1.0
+3448,Israel and the Lebanese Civil War (1980-1981),micnames-1.0
+3503,German and Italian Attacks on Brazilian Shipping (1942-1943),micnames-1.0
+3524,"Mexico declares war on Japan, Germany, and Italy (1942)",micnames-1.0
+3542,Soviet Occupation of Bessarabia (1940),micnames-1.0
+3551,Deterring Yugoslav involvement in the Bosnian Civil War (1992-1996),micnames-1.0
+3552,Allied Enforcement of Iraqi ``No Fly'' Zone (1992-1993),micnames-1.0
+3554,Tensions Along the Albanian-Yugoslav Border (1992-1994),micnames-1.0
+3555,Serbia and the War for Croatian Independence (1992),micnames-1.0
+3557,The War of Bosnian Independence of 1992,micnames-1.0
+3558,Russian Fighting in the Transnistria War (1992),micnames-1.0
+3559,Russo-Ukraine Fight over Control of the Black Sea Fleet (1992),micnames-1.0
+3561,Russian-Georgian Fighting in bkhazia (1993),micnames-1.0
+3564,The Azeri-Armenian War of 1993–1994,micnames-1.0
+3622,The Battle of Laoshan and Sino-Vietnames Border Conflict (1984-1985),micnames-1.0
+3628,The Sino-Vietnamese Border War of 1987,micnames-1.0
+3630,The Falklands War of 1982,micnames-1.0
+3631,Fighting Over the Aouzou Strip (1977-1981),micnames-1.0
+3634,Libyan Invasion of Chad (1983),micnames-1.0
+3635,The War over the Aouzou Strip of 1986–1987,micnames-1.0
+3639,Battle of Laoshan (1984),micnames-1.0
+3647,Russia Forcing China to Sign the Songhua River Sailing Charter (1911),micnames-1.0
+3656,Soviet intervention in the Xinjiang War (1937),micnames-1.0
+3700,British Seize Dutch Ships (1939),micnames-1.0
+3701,German Invasion of the Netherlands (1939-1940),micnames-1.0
+3702,German Invasion of Belgium (1939-1940),micnames-1.0
+3703,German Invasion of Luxembourg (1940),micnames-1.0
+3705,German Attacks on Norwegian Shipping (1939-1940),micnames-1.0
+3706,German Attacks on Danish Shipping and Invasion of Denmark (1940),micnames-1.0
+3717,"Italy Switches Sides in World War II, the sinking of the \emph{Roma} (1943)",micnames-1.0
+3719,German Seizure of Finnish Ships and Attacks on Finnish Shipping (1939-1940),micnames-1.0
+3725,The Conquest of Egypt of 1882,micnames-1.0
+3800,Britain Accidentally Bombs Switzerland Twice (1940),micnames-1.0
+3801,Nazi Pressure Against Sweden from Norway (1940),micnames-1.0
+3802,British Accidental Bombing of Sweden (1940),micnames-1.0
+3804,German Attacks on Swedish Shipping (1939-1943),micnames-1.0
+3809,German Attacks on Estonian Shipping (1939-1940),micnames-1.0
+3813,German Invasion of Yugoslavia (1941),micnames-1.0
+3820,Italian Show of Force before Declaring War Against Allies (1940),micnames-1.0
+3822,Nazi-Soviet pre-World War II Tensions (1940-1941),micnames-1.0
+3825,Second Vienna Award (1940),micnames-1.0
+3834,Seizure of the German Tacoma (1939-1940),micnames-1.0
+3853,Italian Invasion of Egypt (1940),micnames-1.0
+3855,German Attack on Panamanian Shipping (1941-1944),micnames-1.0
+3876,German Uboat Attacks on Uruguayan Shipping (1942),micnames-1.0
+3877,German Uboat Attacks on Mexican Shipping (1942),micnames-1.0
+3881,German Attack on Panamanian Shipping (1940),micnames-1.0
+3882,German Uboat Attacks on Honduran Shipping (1940-1945),micnames-1.0
+3887,German Attack on Panamanian Shipping (1945),micnames-1.0
+3901,United States Invasion of Panama (1989),micnames-1.0
+3953,Mauritania–Senegal Border War (1989-1990),micnames-1.0
+3957,The Gulf War of 1990–1991,micnames-1.0
+3974,Post-Gulf War Patrol of Iraqi Skies (1991),micnames-1.0
+4001,Thai-Cambodian Border Fight with the Khmer Rouge (1994-1996),micnames-1.0
+4003,"Surrender of Drug Warlord, Khun Sa (1996)",micnames-1.0
+4007,The Kargil War of 1999,micnames-1.0
+4011,Gulf of Fonseca Fighting (1995),micnames-1.0
+4013,The Cenepa Valley War of 1995,micnames-1.0
+4016,Restoration of Haitian President Jean-Bertrand Aristide (1993-1994),micnames-1.0
+4031,Canadian-EU Fishing Conflict (1995),micnames-1.0
+4121,Hanish Islands Conflict (1995-1996),micnames-1.0
+4122,Rwandan Intervention in the Zairean Civil War (1996-1997),micnames-1.0
+4137,The War for Kosovo of 1999,micnames-1.0
+4166,Fighting on the Bakassi Peninsula (1996-1997),micnames-1.0
+4182,Israel/Hezbollah and the Lebanon War (1993-2009),micnames-1.0
+4217,"US Bombing of Osama bin Laden, Sudan [Operation Infinite Reach] (1998)",micnames-1.0
+4227,"US Bombing of Osama bin Laden, Afghanistan [Operation Infinite Reach] (1998)",micnames-1.0
+4231,Arrest of Mirsad Catic (1996),micnames-1.0
+4242,Russo-Georgian War over South Ossetia and Abkhazia (2001-2010),micnames-1.0
+4246,Angolan Intervention into Congolese Civil War (1997),micnames-1.0
+4251,Nigerian Intervention into Sierra Leone (1997),micnames-1.0
+4252,Ugandan-Rwandan Fight in the Congo (1999),micnames-1.0
+4258,The Badme Border War of 1998–2000,micnames-1.0
+4273,The Invasion of Iraq of 2003,micnames-1.0
+4283,The Invasion of Afghanistan of 2001,micnames-1.0
+4339,Second Congo War (1998-2002),micnames-1.0
+4341,Croat-Bosniak War (1993-1994),micnames-1.0
+4384,Chadian Actions Against Rebels in Sudan (2005-2006),micnames-1.0
+4436,Russo-Georgian War (2007-2010),micnames-1.0
+4533,Israel against Hezbollah (2006-2009),micnames-1.0
+4585,"Low-Intensity, Indo-Pakistani Border War (2008-2014)",micnames-1.0
+4588,Preah Vihear Temple Conflict (2008-2010),micnames-1.0
+4617,Ivorian Election Crisis (2011),micnames-1.0
+4685,NATO Intervention into Libya (2011),micnames-1.0
+4691,Interventions into Syrian Civil War (2011-2014),micnames-1.0
+9017,Maria Luz Incident,micnames-1.0
+9903,Russo-Georgian War over South Ossetia and Abkhazia (2001-2010),micnames-1.0
+9908,Preah Vihear Temple Conflict (2011),micnames-1.0
+9916,Spain Seizes the Chincha Islands (1864),micnames-1.0
+9921,German Attacks on Yugoslav Shipping (1939-1940),micnames-1.0
+9928,German Attacks on Greek Shipping (1939-1940),micnames-1.0
+9929,German Attacks on Iranian Shipping (1940-1943),micnames-1.0
+9930,German Attacks on Italian Shipping (1940),micnames-1.0
+9931,German Attacks on Liberian Shipping (1943-1944),micnames-1.0
+9932,German Attack on Lithuanian Shipping (1939),micnames-1.0
+9933,German Attacks on Norwegian Shipping (1945),micnames-1.0
+9934,German Attacks on Spanish Shipping (1940),micnames-1.0
+9935,German U-boat attacks on Cuban shipping (1942),micnames-1.0
+9936,German U-boat attacks on Cuban shipping (1943),micnames-1.0
