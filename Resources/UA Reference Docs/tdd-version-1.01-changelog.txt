@@ -1,0 +1,5 @@
+Version 1.01 contains small updates that correct a few errors and omissions with version 1.0.
+
+- Fixed start year inconsistency in dyadic data and event data for MIC#0187.
+- Fixed participant identification issues in MIC#0236 and MIC#0247.
+- Added dyadic observations for MIC nos. #1556, #2130, #2169, #2201, #9017, and #9024.

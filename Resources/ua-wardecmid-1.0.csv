@@ -1,0 +1,283 @@
+wardecnum,ccode1,ccode2,month,day,year,cowmidnum,micnum,action,wardeclarationtext,associatedwar,version
+1,365,640,4,26,1828,,189,18,Russia declared war on Turkey.,First Russo-Turkish,wardecmid-1.0
+2,70,220,12,1,1838,,160,18,Mexico declared war on France.,,wardecmid-1.0
+3,2,70,5,13,1846,,1552,18,United States of America declared war on Mexico.,Mexican-American War,wardecmid-1.0
+4,70,2,7,7,1846,,1552,18,Mexico declared war on United States of America.,Mexican-American War,wardecmid-1.0
+5,337,300,3,21,1848,,19,18,Tuscany declared war on Austria-Hungary.,Austro-Sardinian War,wardecmid-1.0
+6,325,300,3,22,1848,,19,18,Italy declared war on Austria-Hungary.,Austro-Sardinian War,wardecmid-1.0
+7,300,325,4,26,1849,,175,18,Austria-Hungary declared war on Italy.,The War of the Roman Republic,wardecmid-1.0
+8,220,300,5,3,1849,,175,18,France declared war on Austria-Hungary.,The War of the Roman Republic,wardecmid-1.0
+9,160,140,8,18,1851,,1528,18,Argentina declared war on Brazil.,La Plata War,wardecmid-1.0
+10,640,365,10,16,1853,,57,18,Turkey declared war on Russia.,Crimean War,wardecmid-1.0
+11,200,365,3,28,1854,,57,18,United Kingdom declared war on Russia.,Crimean War,wardecmid-1.0
+12,220,365,3,27,1854,,57,18,France declared war on Russia.,Crimean War,wardecmid-1.0
+13,200,630,11,1,1856,,8,18,United Kingdom declared war on Iran.,Anglo-Persian War,wardecmid-1.0
+14,300,325,4,26,1859,,115,18,Austria-Hungary declared war on Italy.,War of Italian Unification,wardecmid-1.0
+15,220,300,5,3,1859,,115,18,France declared war on Austria-Hungary.,War of Italian Unification,wardecmid-1.0
+16,230,600,10,22,1859,,1580,18,Spain declared war on Morocco.,First Spanish-Moroccan War,wardecmid-1.0
+17,220,70,4,20,1862,,135,18,France declared war on Mexico.,Franco-Mexican War,wardecmid-1.0
+18,100,130,11,20,1863,,1519,18,Colombia declared war on Ecuador.,Ecuadorian-Colombian War,wardecmid-1.0
+19,150,140,12,13,1864,,1590,18,Paraguay declared war on Brazil.,Lopez War,wardecmid-1.0
+20,150,160,3,18,1865,,1590,18,Paraguay declared war on Argentina.,Lopez War,wardecmid-1.0
+21,160,150,5,4,1865,,1590,18,Argentina declared war on Paraguay.,Lopez War,wardecmid-1.0
+22,155,230,9,24,1865,,1482,18,Chile declared war on Spain.,The Naval War,wardecmid-1.0
+23,135,230,1,14,1865,,1482,18,Peru declared war on Spain.,The Naval War,wardecmid-1.0
+24,325,300,6,20,1866,,261,18,Italy declared war on Austria-Hungary.,Seven Weeks War,wardecmid-1.0
+25,220,255,7,19,1870,,88,18,France declared war on Germany.,Franco-Prussian War,wardecmid-1.0
+26,90,92,3,27,1876,,1533,18,Guatemala declared war on El Salvador.,First Central American War,wardecmid-1.0
+27,365,640,4,24,1877,,187,18,Russia declared war on Turkey.,Second Russo-Turkish War,wardecmid-1.0
+28,350,640,2,2,1878,,1573,18,Greece declared war on Turkey.,,wardecmid-1.0
+29,145,155,3,14,1879,,1518,18,Bolivia declared war on Chile.,War of the Pacific,wardecmid-1.0
+30,155,135,4,5,1879,,1518,18,Chile declared war on Peru.,War of the Pacific,wardecmid-1.0
+31,155,145,4,6,1879,,1518,18,Chile declared war on Bolivia.,War of the Pacific,wardecmid-1.0
+32,710,220,8,27,1884,,202,18,China declared war on France.,Sino-French War,wardecmid-1.0
+33,93,90,3,8,1885,,1535,18,Nicaragua declared war on Guatemala.,Second Central American War,wardecmid-1.0
+34,92,90,3,15,1885,,1535,18,El Salvador declared war on Guatemala.,Second Central American War,wardecmid-1.0
+35,94,90,3,17,1885,,1535,18,Costa Rica declared war on Guatemala.,Second Central American War,wardecmid-1.0
+36,90,92,6,27,1890,,1534,18,Guatemala declared war on El Salvador.,,wardecmid-1.0
+37,710,740,8,1,1894,,1490,18,China declared war on Japan.,First Sino-Japanese War,wardecmid-1.0
+38,740,710,8,1,1894,,1490,18,Japan declared war on China.,First Sino-Japanese War,wardecmid-1.0
+39,640,350,4,18,1897,,1569,18,Turkey declared war on Greece.,Greco-Turkish War,wardecmid-1.0
+40,2,230,4,25,1898,,1557,18,United States of America declared war on Spain.,Spanish-American War,wardecmid-1.0
+41,710,2,6,21,1900,,31,18,China declared war on United States of America.,Boxer Rebellion,wardecmid-1.0
+42,710,200,6,21,1900,,31,18,China declared war on United Kingdom.,Boxer Rebellion,wardecmid-1.0
+43,710,220,6,21,1900,,31,18,China declared war on France.,Boxer Rebellion,wardecmid-1.0
+44,710,365,6,21,1900,,3250,18,China declared war on Russia.,Boxer Rebellion,wardecmid-1.0
+45,710,740,6,21,1900,,31,18,China declared war on Japan.,Boxer Rebellion,wardecmid-1.0
+46,740,365,2,8,1904,,180,18,Japan declared war on Russia.,Boxer Rebellion,wardecmid-1.0
+47,101,210,12,18,1908,,1063,18,Venezuela declared war on Netherlands.,,wardecmid-1.0
+48,325,640,9,29,1911,,114,18,Italy declared war on Turkey.,Italian-Turkish War,wardecmid-1.0
+49,640,345,10,15,1912,,1250,18,Turkey declared war on Yugoslavia.,First Balkan War,wardecmid-1.0
+50,640,350,10,15,1912,,1250,18,Turkey declared war on Greece.,First Balkan War,wardecmid-1.0
+51,640,355,10,15,1912,,1250,18,Turkey declared war on Bulgaria.,First Balkan War,wardecmid-1.0
+52,345,640,10,17,1912,,1250,18,Yugoslavia declared war on Turkey.,First Balkan War,wardecmid-1.0
+53,350,640,10,17,1912,,1250,18,Greece declared war on Turkey.,First Balkan War,wardecmid-1.0
+54,355,640,10,17,1912,,1250,18,Bulgaria declared war on Turkey.,First Balkan War,wardecmid-1.0
+55,345,355,7,6,1913,,1251,18,Yugoslavia declared war on Bulgaria.,Second Balkan War,wardecmid-1.0
+56,350,355,7,6,1913,,1251,18,Greece declared war on Bulgaria.,Second Balkan War,wardecmid-1.0
+57,360,355,7,10,1913,,1251,18,Romania declared war on Bulgaria.,Second Balkan War,wardecmid-1.0
+58,300,345,7,28,1914,,257,18,Austria-Hungary declared war on Yugoslavia.,World War I,wardecmid-1.0
+59,255,365,8,1,1914,,257,18,Germany declared war on Russia.,World War I,wardecmid-1.0
+60,255,211,8,3,1914,,257,18,Germany declared war on Belgium.,World War I,wardecmid-1.0
+61,255,220,8,3,1914,,257,18,Germany declared war on France.,World War I,wardecmid-1.0
+62,200,255,8,4,1914,,257,18,United Kingdom declared war on Germany.,World War I,wardecmid-1.0
+63,300,365,8,6,1914,,257,18,Austria-Hungary declared war on Russia.,World War I,wardecmid-1.0
+64,345,255,8,6,1914,,257,18,Yugoslavia declared war on Germany.,World War I,wardecmid-1.0
+65,200,300,8,12,1914,,257,18,United Kingdom declared war on Austria-Hungary.,World War I,wardecmid-1.0
+66,220,300,8,12,1914,,257,18,France declared war on Austria-Hungary.,World War I,wardecmid-1.0
+67,740,255,8,23,1914,,257,18,Japan declared war on Germany.,World War I,wardecmid-1.0
+68,740,300,8,25,1914,,257,18,Japan declared war on Austria-Hungary.,World War I,wardecmid-1.0
+69,300,211,8,28,1914,,257,18,Austria-Hungary declared war on Belgium.,World War I,wardecmid-1.0
+70,365,640,11,1,1914,,257,18,Russia declared war on Turkey.,World War I,wardecmid-1.0
+71,200,640,11,5,1914,,257,18,United Kingdom declared war on Turkey.,World War I,wardecmid-1.0
+72,220,640,11,5,1914,,257,18,France declared war on Turkey.,World War I,wardecmid-1.0
+73,640,200,11,11,1914,,257,18,Turkey declared war on United Kingdom.,World War I,wardecmid-1.0
+74,640,365,11,11,1914,,257,18,Turkey declared war on Russia.,World War I,wardecmid-1.0
+75,640,740,11,11,1914,,257,18,Turkey declared war on Japan.,World War I,wardecmid-1.0
+76,345,640,12,2,1914,,257,18,Yugoslavia declared war on Turkey.,World War I,wardecmid-1.0
+77,740,640,12,5,1914,,257,18,Japan declared war on Turkey.,World War I,wardecmid-1.0
+78,325,300,5,23,1915,,257,18,Italy declared war on Austria-Hungary.,World War I,wardecmid-1.0
+79,325,640,8,21,1915,,257,18,Italy declared war on Turkey.,World War I,wardecmid-1.0
+80,325,255,8,28,1915,,257,18,Italy declared war on Germany.,World War I,wardecmid-1.0
+81,355,345,10,14,1915,,257,18,Bulgaria declared war on Yugoslavia.,World War I,wardecmid-1.0
+82,200,355,10,15,1915,,257,18,United Kingdom declared war on Bulgaria.,World War I,wardecmid-1.0
+83,220,355,10,16,1915,,257,18,France declared war on Bulgaria.,World War I,wardecmid-1.0
+84,740,355,10,16,1915,,257,18,Japan declared war on Bulgaria.,World War I,wardecmid-1.0
+85,325,355,10,19,1915,,257,18,Italy declared war on Bulgaria.,World War I,wardecmid-1.0
+86,365,355,10,19,1915,,257,18,Russia declared war on Bulgaria.,World War I,wardecmid-1.0
+87,255,235,3,9,1916,,257,18,Germany declared war on Portugal.,World War I,wardecmid-1.0
+88,300,235,3,15,1916,,257,18,Austria-Hungary declared war on Portugal.,World War I,wardecmid-1.0
+89,360,300,8,28,1916,,396,18,Romania declared war on Austria-Hungary.,World War I,wardecmid-1.0
+90,255,360,8,28,1916,,396,18,Germany declared war on Romania.,World War I,wardecmid-1.0
+91,360,300,8,28,1916,,257,18,Romania declared war on Austria-Hungary.,World War I,wardecmid-1.0
+92,640,360,8,30,1916,,257,18,Turkey declared war on Romania.,World War I,wardecmid-1.0
+93,355,360,9,1,1916,,257,18,Bulgaria declared war on Romania.,World War I,wardecmid-1.0
+94,2,255,4,6,1917,,257,18,United States of America declared war on Germany.,World War I,wardecmid-1.0
+95,40,255,4,7,1917,632,257,18,Cuba declared war on Germany.,World War I,wardecmid-1.0
+96,95,255,4,7,1917,9015,257,18,Panama declared war on Germany.,World War I,wardecmid-1.0
+97,350,255,6,27,1917,,257,18,Greece declared war on Germany.,World War I,wardecmid-1.0
+98,350,300,6,27,1917,,257,18,Greece declared war on Austria-Hungary.,World War I,wardecmid-1.0
+99,350,355,6,27,1917,,257,18,Greece declared war on Bulgaria.,World War I,wardecmid-1.0
+100,350,640,6,27,1917,,257,18,Greece declared war on Turkey.,World War I,wardecmid-1.0
+101,800,255,7,22,1917,521,257,18,Thailand declared war on Germany.,World War I,wardecmid-1.0
+102,800,300,7,22,1917,521,257,18,Thailand declared war on Austria-Hungary.,World War I,wardecmid-1.0
+103,450,255,8,4,1917,,9027,18,Liberia declared war on Germany.,World War I,wardecmid-1.0
+104,710,255,8,14,1917,,257,18,China declared war on Germany.,World War I,wardecmid-1.0
+105,710,300,8,14,1917,,257,18,China declared war on Austria-Hungary.,World War I,wardecmid-1.0
+106,140,255,10,26,1917,,400,18,Brazil declared war on Germany.,World War I,wardecmid-1.0
+107,2,300,12,7,1917,,257,18,United States of America declared war on Austria-Hungary.,World War I,wardecmid-1.0
+108,95,300,12,10,1917,9016,257,18,Panama declared war on Austria-Hungary.,World War I,wardecmid-1.0
+109,90,255,4,22,1918,2647,257,18,Guatemala declared war on Germany.,World War I,wardecmid-1.0
+110,93,255,5,7,1918,522,257,18,Nicaragua declared war on Germany.,World War I,wardecmid-1.0
+111,93,300,5,7,1918,522,257,18,Nicaragua declared war on Austria-Hungary.,World War I,wardecmid-1.0
+112,91,255,7,19,1918,2646,257,18,Honduras declared war on Germany.,World War I,wardecmid-1.0
+113,150,145,5,10,1933,,1027,18,Paraguay declared war on Bolivia.,Chaco War,wardecmid-1.0
+114,670,678,3,20,1934,,1129,18,Saudi Arabia declared war on Yemen Arab Republic.,Saudi-Yemeni War,wardecmid-1.0
+115,530,325,10,3,1935,,111,18,Ethiopia declared war on Italy.,Conquest of Ethiopia,wardecmid-1.0
+116,200,255,9,3,1939,,258,18,United Kingdom declared war on Germany.,World War II,wardecmid-1.0
+117,220,255,9,3,1939,,258,18,France declared war on Germany.,World War II,wardecmid-1.0
+118,900,255,9,3,1939,,258,18,Australia declared war on Germany.,World War II,wardecmid-1.0
+119,920,255,9,3,1939,,258,18,New Zealand declared war on Germany.,World War II,wardecmid-1.0
+120,790,255,9,4,1939,9028,258,18,Nepal declared war on Germany.,World War II,wardecmid-1.0
+121,560,255,9,6,1939,,258,18,South Africa declared war on Germany.,World War II,wardecmid-1.0
+122,20,255,9,10,1939,,258,18,Canada declared war on Germany.,World War II,wardecmid-1.0
+123,20,325,6,10,1940,,258,18,Canada declared war on Italy.,World War II,wardecmid-1.0
+124,325,200,6,10,1940,,258,18,Italy declared war on United Kingdom.,World War II,wardecmid-1.0
+125,325,220,6,10,1940,,258,18,Italy declared war on France.,World War II,wardecmid-1.0
+126,220,325,6,11,1940,,258,18,France declared war on Italy.,World War II,wardecmid-1.0
+127,560,325,6,11,1940,,258,18,South Africa declared war on Italy.,World War II,wardecmid-1.0
+128,900,325,6,11,1940,,258,18,Australia declared war on Italy.,World War II,wardecmid-1.0
+129,920,325,6,11,1940,,258,18,New Zealand declared war on Italy.,World War II,wardecmid-1.0
+130,255,365,6,22,1941,,258,18,Germany declared war on Russia.,World War II,wardecmid-1.0
+131,375,365,6,25,1941,,258,18,Finland declared war on Russia.,World War II,wardecmid-1.0
+132,200,360,12,5,1941,,258,18,United Kingdom declared war on Romania.,World War II,wardecmid-1.0
+133,200,375,12,5,1941,,1786,18,United Kingdom declared war on Finland.,World War II,wardecmid-1.0
+134,360,200,12,6,1941,,258,18,Romania declared war on United Kingdom.,World War II,wardecmid-1.0
+135,375,200,12,6,1941,,258,18,Finland declared war on United Kingdom.,World War II,wardecmid-1.0
+136,20,310,12,7,1941,,258,18,Canada declared war on Hungary.,World War II,wardecmid-1.0
+137,20,360,12,7,1941,,258,18,Canada declared war on Romania.,World War II,wardecmid-1.0
+138,20,375,12,7,1941,,258,18,Canada declared war on Finland.,World War II,wardecmid-1.0
+139,20,740,12,7,1941,,258,18,Canada declared war on Japan.,World War II,wardecmid-1.0
+140,95,740,12,7,1941,3525,258,18,Panama declared war on Japan.,World War II,wardecmid-1.0
+141,200,310,12,7,1941,,258,18,United Kingdom declared war on Hungary.,World War II,wardecmid-1.0
+142,900,310,12,7,1941,258,258,18,Australia declared war on Hungary.,World War II,wardecmid-1.0
+143,900,360,12,7,1941,258,258,18,Australia declared war on Romania.,World War II,wardecmid-1.0
+144,900,375,12,7,1941,258,258,18,Australia declared war on Finland.,World War II,wardecmid-1.0
+145,920,310,12,7,1941,258,258,18,New Zealand declared war on Hungary.,World War II,wardecmid-1.0
+146,920,360,12,7,1941,258,258,18,New Zealand declared war on Romania.,World War II,wardecmid-1.0
+147,920,375,12,7,1941,258,258,18,New Zealand declared war on Finland.,World War II,wardecmid-1.0
+148,2,740,12,8,1941,,258,18,United States of America declared war on Japan.,World War II,wardecmid-1.0
+149,41,740,12,8,1941,3513,258,18,Haiti declared war on Japan.,World War II,wardecmid-1.0
+150,42,740,12,8,1941,3520,258,18,Dominican Republic declared war on Japan.,World War II,wardecmid-1.0
+151,90,740,12,8,1941,3522,258,18,Guatemala declared war on Japan.,World War II,wardecmid-1.0
+152,91,740,12,8,1941,3523,258,18,Honduras declared war on Japan.,World War II,wardecmid-1.0
+153,92,740,12,8,1941,3521,258,18,El Salvador declared war on Japan.,World War II,wardecmid-1.0
+154,93,740,12,8,1941,3514,258,18,Nicaragua declared war on Japan.,World War II,wardecmid-1.0
+155,94,740,12,8,1941,3518,258,18,Costa Rica declared war on Japan.,World War II,wardecmid-1.0
+156,200,740,12,8,1941,,258,18,United Kingdom declared war on Japan.,World War II,wardecmid-1.0
+157,560,310,12,8,1941,,258,18,South Africa declared war on Hungary.,World War II,wardecmid-1.0
+158,560,360,12,8,1941,,258,18,South Africa declared war on Romania.,World War II,wardecmid-1.0
+159,560,375,12,8,1941,,258,18,South Africa declared war on Finland.,World War II,wardecmid-1.0
+160,560,740,12,8,1941,,258,18,South Africa declared war on Japan.,World War II,wardecmid-1.0
+161,712,255,12,8,1941,9937,258,18,Mongolia declared war on Germany.,World War II,wardecmid-1.0
+162,840,740,12,8,1941,258,258,18,Philippines declared war on Japan.,World War II,wardecmid-1.0
+163,900,740,12,9,1941,258,258,18,Australia declared war on Japan.,World War II,wardecmid-1.0
+164,920,740,12,9,1941,258,258,18,New Zealand declared war on Japan.,World War II,wardecmid-1.0
+165,40,740,12,9,1941,3519,258,18,Cuba declared war on Japan.,World War II,wardecmid-1.0
+166,710,255,12,9,1941,,258,18,China declared war on Germany.,World War II,wardecmid-1.0
+167,710,325,12,9,1941,,258,18,China declared war on Italy.,World War II,wardecmid-1.0
+168,710,740,12,9,1941,,258,18,China declared war on Japan.,World War II,wardecmid-1.0
+169,2,255,12,11,1941,,258,18,United States of America declared war on Germany.,World War II,wardecmid-1.0
+170,2,325,12,11,1941,,258,18,United States of America declared war on Italy.,World War II,wardecmid-1.0
+171,40,255,12,11,1941,3519,258,18,Cuba declared war on Germany.,World War II,wardecmid-1.0
+172,40,325,12,11,1941,3519,258,18,Cuba declared war on Italy.,World War II,wardecmid-1.0
+173,42,255,12,11,1941,3520,258,18,Dominican Republic declared war on Germany.,World War II,wardecmid-1.0
+174,42,325,12,11,1941,3520,258,18,Dominican Republic declared war on Italy.,World War II,wardecmid-1.0
+175,90,255,12,11,1941,3522,258,18,Guatemala declared war on Germany.,World War II,wardecmid-1.0
+176,90,325,12,11,1941,3522,258,18,Guatemala declared war on Italy.,World War II,wardecmid-1.0
+177,93,255,12,11,1941,3514,258,18,Nicaragua declared war on Germany.,World War II,wardecmid-1.0
+178,93,325,12,11,1941,3514,258,18,Nicaragua declared war on Italy.,World War II,wardecmid-1.0
+179,94,255,12,11,1941,3518,258,18,Costa Rica declared war on Germany.,World War II,wardecmid-1.0
+180,94,325,12,11,1941,3518,258,18,Costa Rica declared war on Italy.,World War II,wardecmid-1.0
+181,255,2,12,11,1941,,258,18,Germany declared war on United States of America.,World War II,wardecmid-1.0
+182,325,2,12,11,1941,,258,18,Italy declared war on United States of America.,World War II,wardecmid-1.0
+183,41,255,12,12,1941,3513,258,18,Haiti declared war on Germany.,World War II,wardecmid-1.0
+184,41,325,12,12,1941,3513,258,18,Haiti declared war on Italy.,World War II,wardecmid-1.0
+185,92,255,12,12,1941,3521,258,18,El Salvador declared war on Germany.,World War II,wardecmid-1.0
+186,92,325,12,12,1941,3521,258,18,El Salvador declared war on Italy.,World War II,wardecmid-1.0
+187,95,255,12,12,1941,3525,258,18,Panama declared war on Germany.,World War II,wardecmid-1.0
+188,95,325,12,12,1941,3525,258,18,Panama declared war on Italy.,World War II,wardecmid-1.0
+189,355,2,12,12,1941,,258,18,Bulgaria declared war on United States of America.,World War II,wardecmid-1.0
+190,355,200,12,12,1941,,258,18,Bulgaria declared war on United Kingdom.,World War II,wardecmid-1.0
+191,360,2,12,12,1941,,258,18,Romania declared war on United States of America.,World War II,wardecmid-1.0
+192,360,200,12,12,1941,,258,18,Romania declared war on United Kingdom.,World War II,wardecmid-1.0
+193,91,255,12,13,1941,3523,258,18,Honduras declared war on Germany.,World War II,wardecmid-1.0
+194,91,325,12,13,1941,3523,258,18,Honduras declared war on Italy.,World War II,wardecmid-1.0
+195,200,355,12,13,1941,,258,18,United Kingdom declared war on Bulgaria.,World War II,wardecmid-1.0
+196,325,40,12,13,1941,,258,18,Italy declared war on Cuba.,World War II,wardecmid-1.0
+197,325,90,12,13,1941,,258,18,Italy declared war on Guatemala.,World War II,wardecmid-1.0
+198,560,355,12,13,1941,,258,18,South Africa declared war on Bulgaria.,World War II,wardecmid-1.0
+199,920,355,12,13,1941,,258,18,New Zealand declared war on Bulgaria.,World War II,wardecmid-1.0
+200,310,2,12,15,1941,,258,18,Hungary declared war on United States of America.,World War II,wardecmid-1.0
+201,93,310,12,19,1941,1614,258,18,Nicaragua declared war on Hungary.,World War II,wardecmid-1.0
+202,93,355,12,19,1941,1614,258,18,Nicaragua declared war on Bulgaria.,World War II,wardecmid-1.0
+203,93,360,12,19,1941,1614,258,18,Nicaragua declared war on Romania.,World War II,wardecmid-1.0
+204,360,93,12,19,1941,1614,258,18,Romania declared war on Nicaragua.,World War II,wardecmid-1.0
+205,41,310,12,24,1941,3513,258,18,Haiti declared war on Hungary.,World War II,wardecmid-1.0
+206,41,355,12,24,1941,3513,258,18,Haiti declared war on Bulgaria.,World War II,wardecmid-1.0
+207,41,360,12,24,1941,3513,258,18,Haiti declared war on Romania.,World War II,wardecmid-1.0
+208,360,41,12,24,1941,3878,258,18,Romania declared war on Haiti.,World War II,wardecmid-1.0
+209,900,355,1,6,1942,,258,18,Australia declared war on Bulgaria.,World War II,wardecmid-1.0
+210,200,800,1,25,1942,,258,18,United Kingdom declared war on Thailand.,World War II,wardecmid-1.0
+211,560,800,1,25,1942,,258,18,South Africa declared war on Thailand.,World War II,wardecmid-1.0
+212,800,2,1,25,1942,1694,258,18,Thailand declared war on United States of America.,World War II,wardecmid-1.0
+213,800,200,1,25,1942,1694,258,18,Thailand declared war on United Kingdom.,World War II,wardecmid-1.0
+214,920,800,1,25,1942,,258,18,New Zealand declared war on Thailand.,World War II,wardecmid-1.0
+215,900,800,3,2,1942,,258,18,Australia declared war on Thailand.,World War II,wardecmid-1.0
+216,70,255,5,22,1942,,3877,18,Mexico declared war on Germany.,World War II,wardecmid-1.0
+217,70,325,5,22,1942,,3877,18,Mexico declared war on Italy.,World War II,wardecmid-1.0
+218,70,740,5,22,1942,,3877,18,Mexico declared war on Japan.,World War II,wardecmid-1.0
+219,2,310,6,5,1942,,258,18,United States of America declared war on Hungary.,World War II,wardecmid-1.0
+220,2,355,6,5,1942,,258,18,United States of America declared war on Bulgaria.,World War II,wardecmid-1.0
+221,2,360,6,5,1942,,258,18,United States of America declared war on Romania.,World War II,wardecmid-1.0
+222,140,255,8,22,1942,,3503,18,Brazil declared war on Germany.,World War II,wardecmid-1.0
+223,140,325,8,22,1942,,3503,18,Brazil declared war on Italy.,World War II,wardecmid-1.0
+224,530,255,12,14,1942,3527,258,18,Ethiopia declared war on Germany.,World War II,wardecmid-1.0
+225,530,325,12,14,1942,3527,258,18,Ethiopia declared war on Italy.,World War II,wardecmid-1.0
+226,530,740,12,14,1942,3527,258,18,Ethiopia declared war on Japan.,World War II,wardecmid-1.0
+227,645,255,1,17,1943,621,258,18,Iraq declared war on Germany.,World War II,wardecmid-1.0
+228,645,325,1,17,1943,621,258,18,Iraq declared war on Italy.,World War II,wardecmid-1.0
+229,645,740,1,17,1943,621,258,18,Iraq declared war on Japan.,World War II,wardecmid-1.0
+230,155,255,1,20,1943,9938,258,18,Chile declared war on Germany.,World War II,wardecmid-1.0
+231,155,325,1,20,1943,9938,258,18,Chile declared war on Italy.,World War II,wardecmid-1.0
+232,145,255,4,7,1943,3516,258,18,Bolivia declared war on Germany.,World War II,wardecmid-1.0
+233,145,325,4,7,1943,3516,258,18,Bolivia declared war on Italy.,World War II,wardecmid-1.0
+234,145,740,4,7,1943,3516,258,18,Bolivia declared war on Japan.,World War II,wardecmid-1.0
+235,155,740,4,11,1945,9939,258,18,Chile declared war on Japan.,World War II,wardecmid-1.0
+236,630,255,9,9,1943,3515,258,18,Iran declared war on Germany.,World War II,wardecmid-1.0
+237,325,255,10,13,1943,,258,18,Italy declared war on Germany.,World War II,wardecmid-1.0
+238,100,255,11,26,1943,,1789,18,Colombia declared war on Germany.,World War II,wardecmid-1.0
+239,450,255,1,27,1944,3526,258,18,Liberia declared war on Germany.,World War II,wardecmid-1.0
+240,450,740,1,27,1944,3526,258,18,Liberia declared war on Japan.,World War II,wardecmid-1.0
+241,220,255,6,6,1944,,258,18,France declared war on Germany.,World War II,wardecmid-1.0
+242,220,740,7,25,1944,,258,18,France declared war on Japan.,World War II,wardecmid-1.0
+243,360,255,8,25,1944,3826,258,18,Romania declared war on Germany.,World War II,wardecmid-1.0
+244,365,355,9,5,1944,,258,18,Russia declared war on Bulgaria.,World War II,wardecmid-1.0
+245,310,360,9,7,1944,3826,258,18,Hungary declared war on Romania.,World War II,wardecmid-1.0
+246,360,310,9,7,1944,3826,258,18,Romania declared war on Hungary.,World War II,wardecmid-1.0
+247,355,255,9,8,1944,,258,18,Bulgaria declared war on Germany.,World War II,wardecmid-1.0
+248,255,375,9,15,1944,,258,18,Germany declared war on Finland.,World War II,wardecmid-1.0
+249,310,255,12,28,1944,,258,18,Hungary declared war on Germany.,World War II,wardecmid-1.0
+250,130,255,2,2,1945,9022,258,18,Ecuador declared war on Germany.,World War II,wardecmid-1.0
+251,130,740,2,2,1945,9022,258,18,Ecuador declared war on Japan.,World War II,wardecmid-1.0
+252,150,255,2,7,1945,3715,258,18,Paraguay declared war on Germany.,World War II,wardecmid-1.0
+253,150,740,2,7,1945,3715,258,18,Paraguay declared war on Japan.,World War II,wardecmid-1.0
+254,135,255,2,12,1945,3507,258,18,Peru declared war on Germany.,World War II,wardecmid-1.0
+255,135,740,2,12,1945,3507,258,18,Peru declared war on Japan.,World War II,wardecmid-1.0
+256,101,255,2,15,1945,3714,258,18,Venezuela declared war on Germany.,World War II,wardecmid-1.0
+257,101,740,2,15,1945,3714,258,18,Venezuela declared war on Japan.,World War II,wardecmid-1.0
+258,165,255,2,15,1945,3508,258,18,Uruguay declared war on Germany.,World War II,wardecmid-1.0
+259,165,740,2,15,1945,3508,258,18,Uruguay declared war on Japan.,World War II,wardecmid-1.0
+260,640,255,2,23,1945,614,258,18,Turkey declared war on Germany.,World War II,wardecmid-1.0
+261,640,740,2,23,1945,614,258,18,Turkey declared war on Japan.,World War II,wardecmid-1.0
+262,651,255,2,24,1945,3511,258,18,Egypt declared war on Germany.,World War II,wardecmid-1.0
+263,651,740,2,24,1945,3511,258,18,Egypt declared war on Japan.,World War II,wardecmid-1.0
+264,670,255,2,28,1945,622,258,18,Saudi Arabia declared war on Germany.,World War II,wardecmid-1.0
+265,630,740,3,1,1945,3512,258,18,Iran declared war on Japan.,World War II,wardecmid-1.0
+266,670,740,3,1,1945,622,258,18,Saudi Arabia declared war on Japan.,World War II,wardecmid-1.0
+267,375,255,3,3,1945,,258,18,Finland declared war on Germany.,World War II,wardecmid-1.0
+268,360,740,3,7,1945,,258,18,Romania declared war on Japan.,World War II,wardecmid-1.0
+269,160,255,3,27,1945,3509,258,18,Argentina declared war on Germany.,World War II,wardecmid-1.0
+270,160,740,3,27,1945,3509,258,18,Argentina declared war on Japan.,World War II,wardecmid-1.0
+271,155,740,4,11,1945,3510,258,18,Chile declared war on Japan.,World War II,wardecmid-1.0
+272,140,740,6,7,1945,3506,258,18,Brazil declared war on Japan.,World War II,wardecmid-1.0
+273,325,740,7,14,1945,,258,18,Italy declared war on Japan.,World War II,wardecmid-1.0
+274,365,740,8,8,1945,,258,18,Russia declared war on Japan.,World War II,wardecmid-1.0
+275,712,740,8,10,1945,2725,258,18,Mongolia declared war on Japan.,World War II,wardecmid-1.0
+276,750,710,10,26,1962,,199,18,India declared war on China.,War in Assam,wardecmid-1.0
+277,770,750,12,3,1971,,1447,18,Pakistan declared war on India.,War for Bangladesh,wardecmid-1.0
+278,551,552,5,16,1977,,3131,18,Zambia declared war on Zimbabwe.,,wardecmid-1.0
+279,510,500,11,2,1978,,2141,18,Tanzania declared war on Uganda.,Ugandan-Tanzanian War,wardecmid-1.0
+280,95,2,12,15,1989,,3901,18,Panama declared war on United States of America.,,wardecmid-1.0
+281,483,625,12,23,2005,,4384,18,Chad declared war on Sudan.,,wardecmid-1.0
+282,372,365,8,9,2008,,4436,18,Georgia declared war on Russia.,,wardecmid-1.0
