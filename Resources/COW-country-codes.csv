@@ -3,10 +3,7 @@ USA,2,United States of America
 CAN,20,Canada
 BHM,31,Bahamas
 CUB,40,Cuba
-CUB,40,Cuba
 HAI,41,Haiti
-HAI,41,Haiti
-DOM,42,Dominican Republic
 DOM,42,Dominican Republic
 JAM,51,Jamaica
 TRI,52,Trinidad and Tobago
@@ -34,19 +31,14 @@ PER,135,Peru
 BRA,140,Brazil
 BOL,145,Bolivia
 PAR,150,Paraguay
-PAR,150,Paraguay
 CHL,155,Chile
 ARG,160,Argentina
 URU,165,Uruguay
 UKG,200,United Kingdom
 IRE,205,Ireland
 NTH,210,Netherlands
-NTH,210,Netherlands
-BEL,211,Belgium
 BEL,211,Belgium
 LUX,212,Luxembourg
-LUX,212,Luxembourg
-FRN,220,France
 FRN,220,France
 MNC,221,Monaco
 LIE,223,Liechtenstein
@@ -57,7 +49,6 @@ POR,235,Portugal
 HAN,240,Hanover
 BAV,245,Bavaria
 GMY,255,Germany
-GMY,255,Germany
 GFR,260,German Federal Republic
 GDR,265,German Democratic Republic
 BAD,267,Baden
@@ -67,12 +58,9 @@ HSE,273,Hesse Electoral
 HSG,275,Hesse Grand Ducal
 MEC,280,Mecklenburg Schwerin
 POL,290,Poland
-POL,290,Poland
 AUH,300,Austria-Hungary
 AUS,305,Austria
-AUS,305,Austria
 HUN,310,Hungary
-CZE,315,Czechoslovakia
 CZE,315,Czechoslovakia
 CZR,316,Czech Republic
 SLO,317,Slovakia
@@ -85,16 +73,13 @@ PMA,335,Parma
 TUS,337,Tuscany
 MLT,338,Malta
 ALB,339,Albania
-ALB,339,Albania
 MNG,341,Montenegro
 MAC,343,Macedonia
 CRO,344,Croatia
 YUG,345,Yugoslavia
-YUG,345,Yugoslavia
 BOS,346,Bosnia and Herzegovina
 KOS,347,Kosovo
 SLV,349,Slovenia
-GRC,350,Greece
 GRC,350,Greece
 CYP,352,Cyprus
 BUL,355,Bulgaria
@@ -102,10 +87,7 @@ MLD,359,Moldova
 ROM,360,Romania
 RUS,365,Russia
 EST,366,Estonia
-EST,366,Estonia
 LAT,367,Latvia
-LAT,367,Latvia
-LIT,368,Lithuania
 LIT,368,Lithuania
 UKR,369,Ukraine
 BLR,370,Belarus
@@ -115,8 +97,6 @@ AZE,373,Azerbaijan
 FIN,375,Finland
 SWD,380,Sweden
 NOR,385,Norway
-NOR,385,Norway
-DEN,390,Denmark
 DEN,390,Denmark
 ICE,395,Iceland
 CAP,402,Cape Verde
@@ -152,7 +132,6 @@ RWA,517,Rwanda
 SOM,520,Somalia
 DJI,522,Djibouti
 ETH,530,Ethiopia
-ETH,530,Ethiopia
 ERI,531,Eritrea
 ANG,540,Angola
 MZM,541,Mozambique
@@ -169,9 +148,7 @@ COM,581,Comoros
 MAS,590,Mauritius
 SEY,591,Seychelles
 MOR,600,Morocco
-MOR,600,Morocco
 ALG,615,Algeria
-TUN,616,Tunisia
 TUN,616,Tunisia
 LIB,620,Libya
 SUD,625,Sudan
@@ -180,8 +157,6 @@ IRN,630,Iran
 TUR,640,Turkey
 IRQ,645,Iraq
 EGY,651,Egypt
-EGY,651,Egypt
-SYR,652,Syria
 SYR,652,Syria
 LEB,660,Lebanon
 JOR,663,Jordan
@@ -207,7 +182,6 @@ TAW,713,Taiwan
 KOR,730,Korea
 PRK,731,North Korea
 ROK,732,South Korea
-JPN,740,Japan
 JPN,740,Japan
 IND,750,India
 BHU,760,Bhutan
