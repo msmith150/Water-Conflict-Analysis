@@ -37,12 +37,12 @@ Water is one of the most critical resources on the planet for human survival. Wh
     * Freshwater Per Capita
 
 ## Data Sources
-* Bureau of Reclamation: Global Water
-* Food and Agriculture Organization (FAO): Water Stress
-* University of Alabama: Militarized Events
-* Correlates of War (COW): Countries
-* GitHub: Regions & Sub-Regions
-* World Bank Group: Political Stability, Precipitation, Freshwater
-* International Monetary Fund: Surface Temperature
-* Our World In Data: Political Regime
-* Our World in Data: GDP Per Capita
+* Bureau of Reclamation: Global Water - https://www.usbr.gov/mp/arwec/water-facts-ww-water-sup.html
+* Food and Agriculture Organization (FAO): Water Stress - https://data.apps.fao.org/aquastat/?lang=en
+* University of Alabama: Militarized Events - https://internationalconflict.ua.edu/data-download/
+* Correlates of War (COW): Countries - https://correlatesofwar.org/data-sets/cow-country-codes-2/
+* GitHub: Regions & Sub-Regions - https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
+* World Bank Group: Political Stability, Precipitation, Freshwater - https://databank.worldbank.org/reports.aspx
+* International Monetary Fund: Surface Temperature - https://www.imf.org/en/Home
+* Our World In Data: Political Regime - https://ourworldindata.org/grapher/political-regime-fh
+* Our World in Data: GDP Per Capita - https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=latest
