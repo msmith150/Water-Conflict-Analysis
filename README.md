@@ -25,16 +25,16 @@ Water is one of the most critical resources on the planet for human survival. Wh
 2. What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
 3. Are certain types of conflicts more likely to occur in water-scarce regions? (Jason Britton)
 5. Are there other factors that affect the frequency of armed conflicts in water scarce areas?
-   A. Environmental Factors (Matthew Smith)
-        * Global GDP
-        * Global CO2 Emissions
-   B. Socio-political factors (Chris Kellam)
-        * Per-capita income
-        * Degree of political freedom
-   C. Geographical (Molly Fox)
-        * Change in Surface Temperature
-        * Precipitation
-        * Freshwater Per Capita
+  - Environmental Factors (Matthew Smith)
+    * Global GDP
+    * Global CO2 Emissions
+  - Socio-political factors (Chris Kellam)
+    * Per-capita income
+    * Degree of political freedom
+  - Geographical (Molly Fox)
+    * Change in Surface Temperature
+    * Precipitation
+    * Freshwater Per Capita
 
 ## Data Sources
 * Bureau of Reclamation: Global Water
