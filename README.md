@@ -49,7 +49,24 @@ Water is one of the most critical resources on the planet for human survival and
 
 
 ## Question 4B Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Socio-political factors (Chris Kellam)
+Freedom Levels Analysis
 
+Since 1980, the number of countries that are considered "Free" by "Our World in Data" has drastically increased, where in 1980 there were over 80 "Not Free" countries and just over 50 "Free" countries, but now there are over 80 Free countries and less than 70 Not Free and Partly Free countries.
+The levels are defined as follows:
+-Free countries are understood as countries in which citizens have many political rights (free and fair elections, political pluralism and participation, functioning government) and civil liberties (freedoms of expression and association, rule of law, personal autonomy).
+-Partly free country are countries in which citizens have some political rights and civil liberties.
+-Not free country are countries in which citizens have few political rights and civil liberties.
+
+For this project, I was especially interested to find out if there is a correlation between the changes in the number of Not Free countries and the number of conflicts, as well as the Water Stress Levels. 
+When the Not Free countries are compared to the number of Milatirzed Events per year, there seems to be some similarities. However, in the statisical analysis, Pearson's r for this correlation was 0.04, and the p-value was 0.8017, indicating that there is a weak positive correlation between the Not Free Country and Total Conflict variables, and any correlation that is present has a high probability of occurring by random chance.
+The comparison between Not Free Countries and Average Water Stress level also seems to have a correlation, however Pearson's r was -0.09, indicating even less correlation between the two, and a p-value of 0.6017 also indicates that the weak correlation probably occurred by random chance.
+
+Per Capita Income Level Analysis
+"Our World in Data" split the countries of the world into 7 groups by Per Capita Income. Most countries in the world fall into the $2000-$49999 Per Capita Income range. 
+Countries in the $2000-$50000 Per Capita Income range experienced higher levels of conflict than the other income bins. 
+
+We wanted to see if there was any correlation between being in a specific income level and experiencing higher levels of conflicts.  
+The statistical analysis showed with a Pearson's r of 0.39 that the correlation between these two variables is moderate to strong, meaning countries in the $2000-4999 bin are more likely to experience conflict. The p-value of 0.0210 shows that the observed correlation is statistically significant. 
 
 ## Question 4C Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Geographical (Molly Fox)
 The goal of this topic is to analyze other possible geographical factors that could contribute to a rise in militarized events. The three geographcial factors that were selected to investigate were precipitation, freshwater per capita, and change in surface temperature.
