@@ -55,7 +55,7 @@ Water is one of the most critical resources on the planet for human survival and
 The goal of this topic is to analyze other possible geographical factors that could contribute to a rise in militarized events. The three geographcial factors that were selected to investigate were precipitation, freshwater per capita, and change in surface temperature.
 
 ### Surface Temperature vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
-When looking at trends over time between the number of conflicts and the average change in surface temperature (F), there does not appear to be a strong correlation. The calculated r-value is 0.00, indicating no linear correlation. This means that change in surface temperature is not a good predictor for global conflict, and of the three geographical factors analyzed it is the weakest correlation.
+When looking at trends over time between the number of conflicts and the average change in surface temperature (F), there does not appear to be a strong correlation. The calculated r-value is 0.00, indicating no linear correlation. This means that change in surface temperature is not a good predictor for militarized events, and of the three geographical factors analyzed it is the weakest correlation.
 
 ### Precipitation vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
 When looking at trends over time between the number of militarized events and the average precipitation (mm/yr), at first glance, there appears to be a slight correlation. However, the calculated r-value is 0.06 with a negative slope, indicating a very weak negative linear correlation. This means that precipitation is not a good predictor for militarized events.
