@@ -36,19 +36,19 @@ Water is one of the most critical resources on the planet for human survival and
     * Precipitation
     * Freshwater Per Capita
    
-## Question 1 Analysis: Does water scarcity correlate with frequency and intensity of armed conflicts? (Matthew Smith)
+### Question 1 Analysis: Does water scarcity correlate with frequency and intensity of armed conflicts? (Matthew Smith)
 
 
-## Question 2 Analysis: What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
+### Question 2 Analysis: What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
 
 
-## Question 3 Analysis: Are certain types of conflicts more likely to occur in water-scarce regions? (Jason Britton)
+### Question 3 Analysis: Are certain types of conflicts more likely to occur in water-scarce regions? (Jason Britton)
 
 
-## Question 4A Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Environmental Factors (Matthew Smith)
+### Question 4A Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Environmental Factors (Matthew Smith)
 
 
-## Question 4B Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Socio-political factors (Chris Kellam)
+### Question 4B Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Socio-political factors (Chris Kellam)
 Freedom Levels Analysis
 
 Since 1980, the number of countries that are considered "Free" by "Our World in Data" has drastically increased, where in 1980 there were over 80 "Not Free" countries and just over 50 "Free" countries, but now there are over 80 Free countries and less than 70 Not Free and Partly Free countries.
@@ -68,20 +68,20 @@ Countries in the $2000-$50000 Per Capita Income range experienced higher levels 
 We wanted to see if there was any correlation between being in a specific income level and experiencing higher levels of conflicts.  
 The statistical analysis showed with a Pearson's r of 0.39 that the correlation between these two variables is moderate to strong, meaning countries in the $2000-4999 bin are more likely to experience conflict. The p-value of 0.0210 shows that the observed correlation is statistically significant. 
 
-## Question 4C Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Geographical (Molly Fox)
+### Question 4C Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Geographical (Molly Fox)
 The goal of this topic is to analyze other possible geographical factors that could contribute to a rise in militarized events. The three geographcial factors that were selected to investigate were precipitation, freshwater per capita, and change in surface temperature.
 
-### Surface Temperature vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
+#### Surface Temperature vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
 When looking at trends over time between the number of conflicts and the average change in surface temperature (F), there does not appear to be a strong correlation. The calculated r-value is 0.00, indicating no linear correlation. This means that change in surface temperature is not a good predictor for militarized events, and of the three geographical factors analyzed it is the weakest correlation.
 
-### Precipitation vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
+#### Precipitation vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
 When looking at trends over time between the number of militarized events and the average precipitation (mm/yr), at first glance, there appears to be a slight correlation. However, the calculated r-value is 0.06 with a negative slope, indicating a very weak negative linear correlation. This means that precipitation is not a good predictor for militarized events.
 
-### Freshwater vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
+#### Freshwater vs. Conflicts 1980-2014 (Timescale Bar and Line Charts)
 When looking at trends over time between the number of militarized events and the average freshwater per capita (m3), at first glance, there appears to be a slight correlation. The calculated r-value is 0.22 with a positive slope, indicating a weak positive linear correlation. This means that freshwater per capita alone is not a good predictor for militarized events, but of the three geographical factors analyzed it is the strongest correlation.
 
 
-## Conclusions
+### Conclusions
 Analysis suggests there is a moderate positive correlation between conflict and water stress. Although other variables also showed a positive correlation to conflict, water stress was by far the strongest. Analysis did not provide information on causation (increased water stress causes increased conflict or increased conflict causes more water stress), but results suggests there is an opportunity for further study to explore this correlation.
 
 ## Data Sources
