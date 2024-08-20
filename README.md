@@ -43,11 +43,11 @@ Similar analysis was conducted with data at the country level; however, the resu
 ### Question 2 Analysis: What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
 In terms of the geographical patterns involved relative to water scarcity and conflict, we were able to show that water scarcity and conflict do overlap in the equaltorial region around the Middle East and Northern Africa. In an effort to bin one of the categories for an ANOVA test, we found water scarcity is divided into five categories.
 
--No Stress: Less than 25% of renewable resources are withdrawn.
--Low Stress: 25-50% of renewable resources are withdrawn.
--Medium Stress: 50-75% of renewable resources are withdrawn.
--High Stress: 75-100% of renewable resources are withdrawn.
--Critical Stress: More than 100% of renewable resources are withdrawn
+- No Stress: Less than 25% of renewable resources are withdrawn.
+- Low Stress: 25-50% of renewable resources are withdrawn.
+- Medium Stress: 50-75% of renewable resources are withdrawn.
+- High Stress: 75-100% of renewable resources are withdrawn.
+- Critical Stress: More than 100% of renewable resources are withdrawn
 
 The ANOVA test on water scarcity categories showed a strong correlation between maximum fatality rate over the 34 year time frame as a measure of conflict intensity in the region, and the five levels of water scarcity. The results indicated a p-value of 0.00026 showing a correlation between water scarcity levels and maximum fatality rate for the water scarce regions over the specified time frame. However, the residual of the ANOVA test was nearly twice as much as the sum of squares for the variation in water scarcity categories that were accounted for by the model. This suggests that while there is significant variation between stress categories, there's also considerable variation within each category that isn't explained by the stress level alone.
 
