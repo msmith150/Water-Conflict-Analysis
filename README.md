@@ -37,7 +37,8 @@ Water is one of the most critical resources on the planet for human survival and
     * Freshwater Per Capita
    
 ### Question 1 Analysis: Does water scarcity correlate with frequency and intensity of armed conflicts? (Matthew Smith)
-
+After cleaning the data, we plotted total militarized events by year vs. water stress level (overall percentage) from 1980 to 2015. Upon first glance, the plot appears to show a correlation between the two.  Statistical analysis resulted in a p-value of 0.0023 and a Pearson's r value of 0.51, indicating a moderate positive linear correlation and strong evidence against the null hypothesis.
+Similar analysis was conducted with data at the country level; however, the resulting p-value was 0.0050 and r value was 0.47.
 
 ### Question 2 Analysis: What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
 In terms of the geographical patterns involved relative to water scarcity and conflict, we were able to show that water scarcity and conflict do overlap in the equaltorial region around the Middle East and Northern Africa. In an effort to bin one of the categories for an ANOVA test, we found water scarcity is divided into five categories.
@@ -60,7 +61,8 @@ Given the previous analysis, we conducted a Tukey post hoc test to determine whi
 
 
 ### Question 4A Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Environmental Factors (Matthew Smith)
-
+Using WDI data, we reviewed potential economic and environmental variables that may also impact the frequency of armed conflicts.  Statistical analyses comparing global gross domestic product to global water stress resulted in a p-value of 0.0161 and r value of 0.40, indicating moderate positive linear correlation and evidence against the null.  However, comparing global GDP to global conflicts resulted in a p-value of 0.5314 and r value of 0.11.
+Regarding environmental factors, comparing global CO2 emissions to Water Stress resulted in a p-value of 0.0288 and an r value of 0.43.  However, global CO2 emissions vs. global conflict resulted in a p-value of 0.5499 and an r value of -0.13.
 
 ### Question 4B Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Socio-political factors (Chris Kellam)
 Freedom Levels Analysis
