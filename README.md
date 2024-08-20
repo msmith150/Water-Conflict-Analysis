@@ -40,10 +40,19 @@ Water is one of the most critical resources on the planet for human survival and
 
 
 ### Question 2 Analysis: What are the geographical patterns of conflict relative to water scarcity? (Jason Britton)
-In terms of the geographical patterns involved relative to water scarcity and conflict, we were able to show that water scarcity and conflict do overlap in the equaltorial region around the Middle East and Northern Africa. An ANOVA test on water scarcity categories showed a strong correlation between maximum fatality rate over the 34 year time frame as a measure of conflict intensity in the region, and the five levels of ware scarcity. The results indicated a p-value of 0.00026 showing a correlation between water scarcity levels and maximum fatality rate for the region over the specified time frame. 
+In terms of the geographical patterns involved relative to water scarcity and conflict, we were able to show that water scarcity and conflict do overlap in the equaltorial region around the Middle East and Northern Africa. In an effort to bin one of the categories for an ANOVA test, we found water scarcity is divided into five categories.
+
+--No Stress: Less than 25% of renewable resources are withdrawn.
+--Low Stress: 25-50% of renewable resources are withdrawn.
+--Medium Stress: 50-75% of renewable resources are withdrawn.
+--High Stress: 75-100% of renewable resources are withdrawn.
+--Critical Stress: More than 100% of renewable resources are withdrawn
+
+The ANOVA test on water scarcity categories showed a strong correlation between maximum fatality rate over the 34 year time frame as a measure of conflict intensity in the region, and the five levels of water scarcity. The results indicated a p-value of 0.00026 showing a correlation between water scarcity levels and maximum fatality rate for the water scarce regions over the specified time frame. However, the residual of the ANOVA test was nearly twice as much as the sum of squares for the variation in water scarcity categories that were accounted for by the model. This suggests that while there is significant variation between stress categories, there's also considerable variation within each category that isn't explained by the stress level alone.
 
 ### Question 3 Analysis: Are certain types of conflicts more likely to occur in water-scarce regions? (Jason Britton)
-Given the previous analysis, we conducted a Tukey post hoc test to determine which levels were correlated to maximum fatality rates. The Tukey analysis reveals that the Medium Stress category is significantly different from Critical, Low, and No Stress categories in terms of the dependent variable, fatalmax2. This suggests that countries experiencing medium water stress levels have significantly different fatality rates compared to those with critical, low, or no water stress. The High Stress category, interestingly, does not show significant differences with other categories, which might warrant further investigation.
+Given the previous analysis, we conducted a Tukey post hoc test to determine which water scarcity levels were correlated to maximum fatality rates. The Tukey analysis reveals that the Medium Stress category is significantly different from Critical, Low, and No Stress categories in terms of the dependent variable, fatalmax2. This suggests that countries experiencing medium water stress levels have significantly different fatality rates compared to those with critical, low, or no water stress. The High Stress category, interestingly, does not show significant differences with other categories, which might warrant further investigation. The following boxplot shows the relationships between the water stress categories as they related to maximum fatality rates. ![image](https://github.com/user-attachments/assets/a4f0ca53-0c86-40af-9631-a681286a3b22)
+
 
 ### Question 4A Analysis: Are there other factors that affect the frequency of armed conflicts in water scarce areas? Environmental Factors (Matthew Smith)
 
