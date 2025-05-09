@@ -1,4 +1,4 @@
-# Project1_Team2_repo
+# Conflict & Water Analysis
 
 ## Analyzing the Relationship Between Conflict and Water Scarcity
 
